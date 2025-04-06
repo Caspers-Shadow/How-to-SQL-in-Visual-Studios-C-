@@ -1,0 +1,12 @@
+C:\Users\User\OneDrive\Documents\GitHub\2025\Reading data using a DataReader\Reading data using a DataReader\bin\Debug\TestDatabase.mdf
+C:\Users\User\OneDrive\Documents\GitHub\2025\Reading data using a DataReader\Reading data using a DataReader\bin\Debug\TestDatabase_log.ldf
+C:\Users\User\OneDrive\Documents\GitHub\2025\Reading data using a DataReader\Reading data using a DataReader\bin\Debug\Reading data using a DataReader.exe.config
+C:\Users\User\OneDrive\Documents\GitHub\2025\Reading data using a DataReader\Reading data using a DataReader\bin\Debug\Reading data using a DataReader.exe
+C:\Users\User\OneDrive\Documents\GitHub\2025\Reading data using a DataReader\Reading data using a DataReader\bin\Debug\Reading data using a DataReader.pdb
+C:\Users\User\OneDrive\Documents\GitHub\2025\Reading data using a DataReader\Reading data using a DataReader\obj\Debug\Reading data using a DataReader.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GitHub\2025\Reading data using a DataReader\Reading data using a DataReader\obj\Debug\Reading_data_using_a_DataReader.Form1.resources
+C:\Users\User\OneDrive\Documents\GitHub\2025\Reading data using a DataReader\Reading data using a DataReader\obj\Debug\Reading_data_using_a_DataReader.Properties.Resources.resources
+C:\Users\User\OneDrive\Documents\GitHub\2025\Reading data using a DataReader\Reading data using a DataReader\obj\Debug\Reading data using a DataReader.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Documents\GitHub\2025\Reading data using a DataReader\Reading data using a DataReader\obj\Debug\Reading data using a DataReader.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\2025\Reading data using a DataReader\Reading data using a DataReader\obj\Debug\Reading data using a DataReader.exe
+C:\Users\User\OneDrive\Documents\GitHub\2025\Reading data using a DataReader\Reading data using a DataReader\obj\Debug\Reading data using a DataReader.pdb
