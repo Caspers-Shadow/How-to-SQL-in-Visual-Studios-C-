@@ -1,0 +1,13 @@
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDIs and Search\MDIs and Search\bin\Debug\FastFood.mdf
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDIs and Search\MDIs and Search\bin\Debug\FastFood_log.ldf
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDIs and Search\MDIs and Search\bin\Debug\MDIs and Search.exe.config
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDIs and Search\MDIs and Search\bin\Debug\MDIs and Search.exe
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDIs and Search\MDIs and Search\bin\Debug\MDIs and Search.pdb
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDIs and Search\MDIs and Search\obj\Debug\MDIs and Search.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDIs and Search\MDIs and Search\obj\Debug\MDIs_and_Search.Form1.resources
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDIs and Search\MDIs and Search\obj\Debug\MDIs_and_Search.frmList.resources
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDIs and Search\MDIs and Search\obj\Debug\MDIs_and_Search.Properties.Resources.resources
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDIs and Search\MDIs and Search\obj\Debug\MDIs and Search.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDIs and Search\MDIs and Search\obj\Debug\MDIs and Search.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDIs and Search\MDIs and Search\obj\Debug\MDIs and Search.exe
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDIs and Search\MDIs and Search\obj\Debug\MDIs and Search.pdb
