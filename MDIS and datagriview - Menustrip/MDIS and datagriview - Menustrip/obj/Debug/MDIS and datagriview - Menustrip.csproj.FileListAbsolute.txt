@@ -1,0 +1,13 @@
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDIS and datagriview - Menustrip\MDIS and datagriview - Menustrip\bin\Debug\Data.mdf
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDIS and datagriview - Menustrip\MDIS and datagriview - Menustrip\bin\Debug\Data_log.ldf
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDIS and datagriview - Menustrip\MDIS and datagriview - Menustrip\bin\Debug\MDIS and datagriview - Menustrip.exe.config
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDIS and datagriview - Menustrip\MDIS and datagriview - Menustrip\bin\Debug\MDIS and datagriview - Menustrip.exe
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDIS and datagriview - Menustrip\MDIS and datagriview - Menustrip\bin\Debug\MDIS and datagriview - Menustrip.pdb
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDIS and datagriview - Menustrip\MDIS and datagriview - Menustrip\obj\Debug\MDIS and datagriview - Menustrip.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDIS and datagriview - Menustrip\MDIS and datagriview - Menustrip\obj\Debug\MDIS_and_datagriview___Menustrip.Form1.resources
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDIS and datagriview - Menustrip\MDIS and datagriview - Menustrip\obj\Debug\MDIS_and_datagriview___Menustrip.frmDVDNew.resources
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDIS and datagriview - Menustrip\MDIS and datagriview - Menustrip\obj\Debug\MDIS_and_datagriview___Menustrip.Properties.Resources.resources
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDIS and datagriview - Menustrip\MDIS and datagriview - Menustrip\obj\Debug\MDIS and datagriview - Menustrip.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDIS and datagriview - Menustrip\MDIS and datagriview - Menustrip\obj\Debug\MDIS and datagriview - Menustrip.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDIS and datagriview - Menustrip\MDIS and datagriview - Menustrip\obj\Debug\MDIS and datagriview - Menustrip.exe
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDIS and datagriview - Menustrip\MDIS and datagriview - Menustrip\obj\Debug\MDIS and datagriview - Menustrip.pdb
