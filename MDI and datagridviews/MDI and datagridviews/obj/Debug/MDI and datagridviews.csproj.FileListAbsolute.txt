@@ -1,0 +1,12 @@
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDI and datagridviews\MDI and datagridviews\bin\Debug\Film.mdf
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDI and datagridviews\MDI and datagridviews\bin\Debug\Film_log.ldf
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDI and datagridviews\MDI and datagridviews\bin\Debug\MDI and datagridviews.exe.config
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDI and datagridviews\MDI and datagridviews\bin\Debug\MDI and datagridviews.exe
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDI and datagridviews\MDI and datagridviews\bin\Debug\MDI and datagridviews.pdb
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDI and datagridviews\MDI and datagridviews\obj\Debug\MDI and datagridviews.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDI and datagridviews\MDI and datagridviews\obj\Debug\MDI_and_datagridviews.Form1.resources
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDI and datagridviews\MDI and datagridviews\obj\Debug\MDI_and_datagridviews.Properties.Resources.resources
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDI and datagridviews\MDI and datagridviews\obj\Debug\MDI and datagridviews.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDI and datagridviews\MDI and datagridviews\obj\Debug\MDI and datagridviews.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDI and datagridviews\MDI and datagridviews\obj\Debug\MDI and datagridviews.exe
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\MDI and datagridviews\MDI and datagridviews\obj\Debug\MDI and datagridviews.pdb
