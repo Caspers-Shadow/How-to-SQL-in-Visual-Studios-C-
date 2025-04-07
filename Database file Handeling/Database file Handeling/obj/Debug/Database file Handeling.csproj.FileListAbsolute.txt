@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\Database file Handeling\Database file Handeling\bin\Debug\University.mdf
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\Database file Handeling\Database file Handeling\bin\Debug\University_log.ldf
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\Database file Handeling\Database file Handeling\bin\Debug\Database file Handeling.exe.config
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\Database file Handeling\Database file Handeling\bin\Debug\Database file Handeling.exe
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\Database file Handeling\Database file Handeling\bin\Debug\Database file Handeling.pdb
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\Database file Handeling\Database file Handeling\obj\Debug\Database file Handeling.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\Database file Handeling\Database file Handeling\obj\Debug\Database_file_Handeling.Form1.resources
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\Database file Handeling\Database file Handeling\obj\Debug\Database_file_Handeling.frmDegreeOverview.resources
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\Database file Handeling\Database file Handeling\obj\Debug\Database_file_Handeling.frmManageStudents.resources
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\Database file Handeling\Database file Handeling\obj\Debug\Database_file_Handeling.Properties.Resources.resources
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\Database file Handeling\Database file Handeling\obj\Debug\Database file Handeling.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\Database file Handeling\Database file Handeling\obj\Debug\Database file Handeling.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\Database file Handeling\Database file Handeling\obj\Debug\Database file Handeling.exe
+C:\Users\User\OneDrive\Documents\GitHub\How-to-SQL-in-Visual-Studios-C-\Database file Handeling\Database file Handeling\obj\Debug\Database file Handeling.pdb

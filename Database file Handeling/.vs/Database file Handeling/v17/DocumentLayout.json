@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\How-to-SQL-in-Visual-Studios-C-\\Database file Handeling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D88A611-BDF3-4ACF-AAED-DA509A7C9248}|Database file Handeling\\Database file Handeling.csproj|c:\\users\\user\\onedrive\\documents\\github\\how-to-sql-in-visual-studios-c-\\database file handeling\\database file handeling\\managestudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D88A611-BDF3-4ACF-AAED-DA509A7C9248}|Database file Handeling\\Database file Handeling.csproj|solutionrelative:database file handeling\\managestudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D88A611-BDF3-4ACF-AAED-DA509A7C9248}|Database file Handeling\\Database file Handeling.csproj|c:\\users\\user\\onedrive\\documents\\github\\how-to-sql-in-visual-studios-c-\\database file handeling\\database file handeling\\managestudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D88A611-BDF3-4ACF-AAED-DA509A7C9248}|Database file Handeling\\Database file Handeling.csproj|solutionrelative:database file handeling\\managestudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D88A611-BDF3-4ACF-AAED-DA509A7C9248}|Database file Handeling\\Database file Handeling.csproj|c:\\users\\user\\onedrive\\documents\\github\\how-to-sql-in-visual-studios-c-\\database file handeling\\database file handeling\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D88A611-BDF3-4ACF-AAED-DA509A7C9248}|Database file Handeling\\Database file Handeling.csproj|solutionrelative:database file handeling\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D88A611-BDF3-4ACF-AAED-DA509A7C9248}|Database file Handeling\\Database file Handeling.csproj|c:\\users\\user\\onedrive\\documents\\github\\how-to-sql-in-visual-studios-c-\\database file handeling\\database file handeling\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D88A611-BDF3-4ACF-AAED-DA509A7C9248}|Database file Handeling\\Database file Handeling.csproj|solutionrelative:database file handeling\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D88A611-BDF3-4ACF-AAED-DA509A7C9248}|Database file Handeling\\Database file Handeling.csproj|c:\\users\\user\\onedrive\\documents\\github\\how-to-sql-in-visual-studios-c-\\database file handeling\\database file handeling\\frmdegreeoverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D88A611-BDF3-4ACF-AAED-DA509A7C9248}|Database file Handeling\\Database file Handeling.csproj|solutionrelative:database file handeling\\frmdegreeoverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmDegreeOverview.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\How-to-SQL-in-Visual-Studios-C-\\Database file Handeling\\Database file Handeling\\frmDegreeOverview.cs",
+              "RelativeDocumentMoniker": "Database file Handeling\\frmDegreeOverview.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\How-to-SQL-in-Visual-Studios-C-\\Database file Handeling\\Database file Handeling\\frmDegreeOverview.cs [Design]",
+              "RelativeToolTip": "Database file Handeling\\frmDegreeOverview.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T09:54:15.194Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManageStudents.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\How-to-SQL-in-Visual-Studios-C-\\Database file Handeling\\Database file Handeling\\ManageStudents.cs",
+              "RelativeDocumentMoniker": "Database file Handeling\\ManageStudents.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\How-to-SQL-in-Visual-Studios-C-\\Database file Handeling\\Database file Handeling\\ManageStudents.cs",
+              "RelativeToolTip": "Database file Handeling\\ManageStudents.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAASwC0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T09:47:21.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManageStudents.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\How-to-SQL-in-Visual-Studios-C-\\Database file Handeling\\Database file Handeling\\ManageStudents.cs",
+              "RelativeDocumentMoniker": "Database file Handeling\\ManageStudents.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\How-to-SQL-in-Visual-Studios-C-\\Database file Handeling\\Database file Handeling\\ManageStudents.cs [Design]",
+              "RelativeToolTip": "Database file Handeling\\ManageStudents.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T09:45:42.091Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\How-to-SQL-in-Visual-Studios-C-\\Database file Handeling\\Database file Handeling\\Form1.cs",
+              "RelativeDocumentMoniker": "Database file Handeling\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\How-to-SQL-in-Visual-Studios-C-\\Database file Handeling\\Database file Handeling\\Form1.cs",
+              "RelativeToolTip": "Database file Handeling\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAASwCQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T09:45:02.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\How-to-SQL-in-Visual-Studios-C-\\Database file Handeling\\Database file Handeling\\Form1.cs",
+              "RelativeDocumentMoniker": "Database file Handeling\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\How-to-SQL-in-Visual-Studios-C-\\Database file Handeling\\Database file Handeling\\Form1.cs [Design]",
+              "RelativeToolTip": "Database file Handeling\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T09:43:05.842Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
