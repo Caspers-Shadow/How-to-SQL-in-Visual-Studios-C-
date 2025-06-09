@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\How-to-SQL-in-Visual-Studios-C-\\Validation and drop down lists\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82FB4423-2A11-4AB3-B959-735D983E4DCD}|Validation and drop down lists\\Validation and drop down lists.csproj|c:\\users\\user\\onedrive\\documents\\github\\how-to-sql-in-visual-studios-c-\\validation and drop down lists\\validation and drop down lists\\artclub.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FB4423-2A11-4AB3-B959-735D983E4DCD}|Validation and drop down lists\\Validation and drop down lists.csproj|solutionrelative:validation and drop down lists\\artclub.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FB4423-2A11-4AB3-B959-735D983E4DCD}|Validation and drop down lists\\Validation and drop down lists.csproj|c:\\users\\user\\onedrive\\documents\\github\\how-to-sql-in-visual-studios-c-\\validation and drop down lists\\validation and drop down lists\\artclub.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{82FB4423-2A11-4AB3-B959-735D983E4DCD}|Validation and drop down lists\\Validation and drop down lists.csproj|solutionrelative:validation and drop down lists\\artclub.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FB4423-2A11-4AB3-B959-735D983E4DCD}|Validation and drop down lists\\Validation and drop down lists.csproj|c:\\users\\user\\onedrive\\documents\\github\\how-to-sql-in-visual-studios-c-\\validation and drop down lists\\validation and drop down lists\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{82FB4423-2A11-4AB3-B959-735D983E4DCD}|Validation and drop down lists\\Validation and drop down lists.csproj|solutionrelative:validation and drop down lists\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArtClub.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\How-to-SQL-in-Visual-Studios-C-\\Validation and drop down lists\\Validation and drop down lists\\ArtClub.aspx.cs",
+              "RelativeDocumentMoniker": "Validation and drop down lists\\ArtClub.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\How-to-SQL-in-Visual-Studios-C-\\Validation and drop down lists\\Validation and drop down lists\\ArtClub.aspx.cs",
+              "RelativeToolTip": "Validation and drop down lists\\ArtClub.aspx.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwCwAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T13:30:36.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\How-to-SQL-in-Visual-Studios-C-\\Validation and drop down lists\\Validation and drop down lists\\Web.config",
+              "RelativeDocumentMoniker": "Validation and drop down lists\\Web.config",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\How-to-SQL-in-Visual-Studios-C-\\Validation and drop down lists\\Validation and drop down lists\\Web.config",
+              "RelativeToolTip": "Validation and drop down lists\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-09T13:25:32.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArtClub.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\How-to-SQL-in-Visual-Studios-C-\\Validation and drop down lists\\Validation and drop down lists\\ArtClub.aspx",
+              "RelativeDocumentMoniker": "Validation and drop down lists\\ArtClub.aspx",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\How-to-SQL-in-Visual-Studios-C-\\Validation and drop down lists\\Validation and drop down lists\\ArtClub.aspx",
+              "RelativeToolTip": "Validation and drop down lists\\ArtClub.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-09T12:43:52.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
