@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\How-to-SQL-in-Visual-Studios-C-\\Calender Control\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76F36CDC-552F-42E4-A902-E48455D6731B}|Calender Control\\Calender Control.csproj|c:\\users\\user\\onedrive\\documents\\github\\how-to-sql-in-visual-studios-c-\\calender control\\calender control\\scheduler.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F36CDC-552F-42E4-A902-E48455D6731B}|Calender Control\\Calender Control.csproj|solutionrelative:calender control\\scheduler.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F36CDC-552F-42E4-A902-E48455D6731B}|Calender Control\\Calender Control.csproj|c:\\users\\user\\onedrive\\documents\\github\\how-to-sql-in-visual-studios-c-\\calender control\\calender control\\scheduler.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{76F36CDC-552F-42E4-A902-E48455D6731B}|Calender Control\\Calender Control.csproj|solutionrelative:calender control\\scheduler.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Scheduler.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\How-to-SQL-in-Visual-Studios-C-\\Calender Control\\Calender Control\\Scheduler.aspx.cs",
+              "RelativeDocumentMoniker": "Calender Control\\Scheduler.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\How-to-SQL-in-Visual-Studios-C-\\Calender Control\\Calender Control\\Scheduler.aspx.cs",
+              "RelativeToolTip": "Calender Control\\Scheduler.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswCEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:07:23.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Scheduler.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\How-to-SQL-in-Visual-Studios-C-\\Calender Control\\Calender Control\\Scheduler.aspx",
+              "RelativeDocumentMoniker": "Calender Control\\Scheduler.aspx",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\How-to-SQL-in-Visual-Studios-C-\\Calender Control\\Calender Control\\Scheduler.aspx",
+              "RelativeToolTip": "Calender Control\\Scheduler.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-10T08:57:48.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
