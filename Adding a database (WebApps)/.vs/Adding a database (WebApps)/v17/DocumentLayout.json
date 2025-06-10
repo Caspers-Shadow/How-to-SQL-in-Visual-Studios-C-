@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\How-to-SQL-in-Visual-Studios-C-\\Adding a database (WebApps)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06650769-807D-4CA3-B281-1B9726F19058}|Adding a database (WebApps)\\Adding a database (WebApps).csproj|c:\\users\\user\\onedrive\\documents\\github\\how-to-sql-in-visual-studios-c-\\adding a database (webapps)\\adding a database (webapps)\\kennel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{06650769-807D-4CA3-B281-1B9726F19058}|Adding a database (WebApps)\\Adding a database (WebApps).csproj|solutionrelative:adding a database (webapps)\\kennel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kennel.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\How-to-SQL-in-Visual-Studios-C-\\Adding a database (WebApps)\\Adding a database (WebApps)\\Kennel.aspx",
+              "RelativeDocumentMoniker": "Adding a database (WebApps)\\Kennel.aspx",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\How-to-SQL-in-Visual-Studios-C-\\Adding a database (WebApps)\\Adding a database (WebApps)\\Kennel.aspx",
+              "RelativeToolTip": "Adding a database (WebApps)\\Kennel.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-10T10:04:25.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
